@@ -1,0 +1,2 @@
+# Dataset
+The German Traffic Sign Dataset consists of 39,209 32×32 px color images for training, and 12,630 images for testing. Each image is a photo of a traffic sign belonging to one of 43 classes.
